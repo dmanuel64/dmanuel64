@@ -7,9 +7,3 @@ TODO
 ![](https://github-readme-stats.vercel.app/api?username=dmanuel64&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dmanuel64&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmanuel64&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=dmanuel64&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=dmanuel64&icon=0&color=7)](https://visitcount.itsvg.in)
