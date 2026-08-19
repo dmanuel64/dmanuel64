@@ -102,6 +102,8 @@
 <div align="left">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="120" alt="aws solutions architect associate badge"  />
   <img width="36" />
+  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="120" alt="comptia security+ badge"  />
+  <img width="36" />
 </div>
 
 ###
